@@ -15,4 +15,4 @@ dependencies:
   - pip:
     - delayed-assert
 
-
+Results can be reproduced in Jupiter notebook.
